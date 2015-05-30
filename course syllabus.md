@@ -63,4 +63,13 @@
 - Managing comments
 - Comment settings
 - Managing tags
-- Adding and Managing Media Files
+- Media Library : Adding and Managing Media Files
+- Image Editor and Media Profiles
+
+# Creating and Managing forms using Dynamic Forms
+
+- Creating a form
+- Using form elements : form, checkbox, email, password, etc..
+- Using Projection element : Rendering a list of content items
+- Using Taxonomy element : To generate a Input Type List
+- Importing/Exporting Form Data
