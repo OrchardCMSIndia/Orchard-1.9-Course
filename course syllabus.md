@@ -53,4 +53,14 @@
 
 # Managing Users, Roles, Permissions and Site Settings
 
-- 
+- Managing User and User Registration
+- Accessing and Managing Roles and Permissions
+- Securing content using Content Item Permissions
+- Managing Site settings
+
+# Managing Comments, Media and Tags
+
+- Managing comments
+- Comment settings
+- Managing tags
+- Adding and Managing Media Files
