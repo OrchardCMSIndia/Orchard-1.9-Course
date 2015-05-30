@@ -68,8 +68,16 @@
 
 # Creating and Managing forms using Dynamic Forms
 
-- Creating a form
-- Using form elements : form, checkbox, email, password, etc..
+- Creating a dynamic form : adding a form element
+- Using form elements : checkbox, email, password, etc..
 - Using Projection element : Rendering a list of content items
 - Using Taxonomy element : To generate a Input Type List
 - Importing/Exporting Form Data
+
+# Audit Trail : Managing Logs back-end changes
+
+- Managing Logs for Content Definition Events : Page creation/deletion
+- Managing Logs for Importing/Exporting
+- Managing Logs for Role events : assigning roles for a users
+- Managing Logs for User events : creating/deleting users
+- Aduit Trail Trimming feature : Trims Log list
