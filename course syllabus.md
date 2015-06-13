@@ -1,19 +1,23 @@
-# Introduction to Orchard
+# Getting Started
 
 - What is Orchard?
 - What version is the latest?
 - How to get Orchard? Web or Source Code?
 - Tryorchard.net : Try Orchard Online
 - What software to use ? WebMatrix & Visual Studio?
-- Recipes in Orchard
 - Orchard CMS Folder structure
-- Starting a New website
+- Orchard Recipes
+- Installing & Working with Orchard in WebMatrix
 - Exploring the dashboard
 - Installing and Downloading Themes
 - Installing and Downloading Modules
-- Installing Orchard on IIS 
-- Orchard support IIS Full trust level only
+- Manually Installing Orchard on IIS with SQL Server
 - DotNest : Orchard CMS Software as a service
+
+# A Guide to All the Built-in Modules and Features
+
+- Core Orchard Built-in Modules & Features
+- Non-core Orchard Built-in Modules & Features
 
 # Concepts and Managing Content
 
@@ -81,3 +85,7 @@
 - Managing Logs for Role events : assigning roles for a users
 - Managing Logs for User events : creating/deleting users
 - Aduit Trail Trimming feature : Trims Log list
+
+# Upgrading an Orchard website
+
+- 
