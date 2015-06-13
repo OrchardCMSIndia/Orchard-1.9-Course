@@ -9,8 +9,6 @@
 - Orchard Recipes
 - Installing & Working with Orchard in WebMatrix
 - Exploring the dashboard
-- Installing and Downloading Themes
-- Installing and Downloading Modules
 - Manually Installing Orchard on IIS with SQL Server
 - DotNest : Orchard CMS Software as a service
 
@@ -25,8 +23,10 @@
 - Content Parts : Autoroute Part is a content part 
 - Content Fields : TextField is a content field
 - Content Items : creating a new page or a blogpost is a content item(i.e. instance of content type)
-- Creating a Page, Blog and BlogPost
-- Page Layers : Creating layers to manage widgets
+- Creating a Page
+- Adding a Blog to Your Site
+- Saving, Scheduling and Publishing Drafts
+- Page Layers : Creating layers to manage widgets(Old School)
 - Managing Zones & Placing Widgets
 - Indexable and Draftable Widgets
 - Types of Widgets
@@ -34,6 +34,19 @@
 - Categorizing content using Taxonomies
 - Shapes in Orchard
 - Tokens in Orchard
+
+# Customizing an Orchard Website
+
+- Previewing and Applying a Theme
+- Installing Themes
+- Installing a Module from Orchard Gallery
+
+# Using the Orchard Gallery
+
+- Gallery Overview
+- Installing Modules and Themes from the Gallery
+- Registering Gallery Feed
+- Contributing a Module or Theme to the Gallery
 
 # Managing content with Layouts
 
@@ -60,7 +73,7 @@
 - Managing User and User Registration
 - Accessing and Managing Roles and Permissions
 - Securing content using Content Item Permissions
-- Managing Site settings
+- Modifying Site settings
 
 # Managing Comments, Media and Tags
 
@@ -85,6 +98,10 @@
 - Managing Logs for Role events : assigning roles for a users
 - Managing Logs for User events : creating/deleting users
 - Aduit Trail Trimming feature : Trims Log list
+
+# Enabling Search and Indexing in Orchard
+
+
 
 # Upgrading an Orchard website
 
