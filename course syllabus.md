@@ -108,6 +108,7 @@
 
 # Upgrading an Orchard website
 
+- Creating a Custom Website Recipe
 
 
 # Contributing to Documentation
@@ -121,6 +122,7 @@
 
 - Setting up a Machine Key
 - Creating a website using Recipes
+- Deploying Orchard to Azure Websites
 
 # Introduction to Workflows
 
