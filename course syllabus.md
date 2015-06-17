@@ -24,7 +24,7 @@
 - Installing Themes
 - Installing a Module from Orchard Gallery
 
-# Using the Orchard Gallery (Note Sure)
+# Using the Orchard Gallery (Optional)
 
 - Gallery Overview
 - Installing Modules and Themes from the Gallery
@@ -40,7 +40,7 @@
 - Creating a Page
 - Adding a Blog to Your Site
 - Saving, Scheduling and Publishing Drafts
-- Page Layers : Creating layers to manage widgets(Old School)
+- Page Layers : Creating layers to manage widgets(Optional: use Layout)
 - Managing Zones & Placing Widgets
 - Indexable and Draftable Widgets
 - Types of Widgets
@@ -110,13 +110,11 @@
 
 # Enabling Search and Indexing in Orchard
 
-
-
 # Setting up a Multi-Tenant Orchard Site
-
 
 # Introduction to Workflows
 
+# Using Orchard Website with SSL
 
 # Importing/Exporting Website Content 
 
