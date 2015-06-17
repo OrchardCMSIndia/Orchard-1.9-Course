@@ -2,8 +2,9 @@
 
 - What is Orchard?
 - What version is the latest?
-- How to get Orchard? Web or Source Code?
 - Tryorchard.net : Try Orchard Online
+- Orchard Beginner : Beginner's guide to Orchard CMS
+- How to get Orchard? Web or Source Code?
 - What software to use ? WebMatrix & Visual Studio?
 - Orchard CMS Folder structure
 - Orchard Recipes
@@ -16,6 +17,19 @@
 
 - Core Orchard Built-in Modules & Features
 - Non-core Orchard Built-in Modules & Features
+
+# Customizing an Orchard Website
+
+- Previewing and Applying a Theme
+- Installing Themes
+- Installing a Module from Orchard Gallery
+
+# Using the Orchard Gallery (Note Sure)
+
+- Gallery Overview
+- Installing Modules and Themes from the Gallery
+- Registering Gallery Feed
+- Contributing a Module or Theme to the Gallery
 
 # Concepts and Managing Content
 
@@ -35,29 +49,6 @@
 - Shapes in Orchard
 - Tokens in Orchard
 
-# Customizing an Orchard Website
-
-- Previewing and Applying a Theme
-- Installing Themes
-- Installing a Module from Orchard Gallery
-
-# Using the Orchard Gallery
-
-- Gallery Overview
-- Installing Modules and Themes from the Gallery
-- Registering Gallery Feed
-- Contributing a Module or Theme to the Gallery
-
-# Managing content with Layouts
-
-- Adding a Grid with Rows and Elements
-- Content Elements : Content Item, HTML, Markdown, Paragraph, Projection, Text
-- Media Elements : Image, Media Item, Vector Image
-- Parts Elements : Body, Common, Tags, Title Parts
-- Snippets : Create custom layout elements
-- Managing content using Layouts and elements
-- Creating a Master Layout
-
 # Managing Menus and Navigation System
 
 - Menu as a Widget
@@ -69,6 +60,17 @@
 - Creating Menu using Taxonomy Link
 - Creating Breadcrumbs using Menu Widget
 
+# Managing content with Layouts
+
+- Adding a Grid with Rows and Elements
+- Content Elements : Content Item, HTML, Markdown, Paragraph, Projection, Text
+- Media Elements : Image, Media Item, Vector Image
+- Parts Elements : Body, Common, Tags, Title Parts
+- Snippets : Create custom layout elements
+- Managing content using Layouts and elements
+- Creating a Master Layout
+
+
 # Managing Users, Roles, Permissions and Site Settings
 
 - Managing User and User Registration
@@ -76,7 +78,11 @@
 - Securing content using Content Item Permissions
 - Modifying Site settings
 
-# Configuring Email, Caching, 
+# Configuring Email, Caching and Warmup
+
+- Configuring Email and SMTP Host
+- Configuring Caching settings
+- Configuring Warmup settings
 
 # Managing Comments, Media and Tags
 
@@ -106,17 +112,20 @@
 
 
 
-# Upgrading an Orchard website
-
-- Creating a Custom Website Recipe
-
-
-# Contributing to Documentation
-
-
 # Setting up a Multi-Tenant Orchard Site
 
 
+# Introduction to Workflows
+
+
+# Importing/Exporting Website Content 
+
+- Enabling Import/Export Module
+- Choosing content types for Import/Export
+
+# Upgrading an Orchard website
+
+- Creating a Custom Website Recipe
 
 # Deploying Orchard to a Hosting Server
 
@@ -124,5 +133,4 @@
 - Creating a website using Recipes
 - Deploying Orchard to Azure Websites
 
-# Introduction to Workflows
-
+# Contributing to Documentation
