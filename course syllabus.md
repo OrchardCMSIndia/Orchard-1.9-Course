@@ -30,7 +30,7 @@
 - Managing Zones & Placing Widgets
 - Indexable and Draftable Widgets
 - Types of Widgets
-- Creating Queries using the Projector Module
+- Projections : Queries and Projector
 - Categorizing content using Taxonomies
 - Shapes in Orchard
 - Tokens in Orchard
@@ -56,6 +56,7 @@
 - Parts Elements : Body, Common, Tags, Title Parts
 - Snippets : Create custom layout elements
 - Managing content using Layouts and elements
+- Creating a Master Layout
 
 # Managing Menus and Navigation System
 
@@ -75,9 +76,11 @@
 - Securing content using Content Item Permissions
 - Modifying Site settings
 
+# Configuring Email, Caching, 
+
 # Managing Comments, Media and Tags
 
-- Managing comments
+- Moderating comments
 - Comment settings
 - Managing tags
 - Media Library : Adding and Managing Media Files
@@ -105,4 +108,19 @@
 
 # Upgrading an Orchard website
 
-- 
+
+
+# Contributing to Documentation
+
+
+# Setting up a Multi-Tenant Orchard Site
+
+
+
+# Deploying Orchard to a Hosting Server
+
+- Setting up a Machine Key
+- Creating a website using Recipes
+
+# Introduction to Workflows
+
