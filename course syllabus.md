@@ -1,4 +1,4 @@
-# Getting Started
+\# Getting Started
 
 - What is Orchard?
 - What version is the latest?
@@ -48,6 +48,9 @@
 - Categorizing content using Taxonomies
 - Shapes in Orchard
 - Tokens in Orchard
+- Content Item Permissions
+- Alias in Orchard
+- Remote Publishing in Orchard
 
 # Managing Menus and Navigation System
 
@@ -148,3 +151,5 @@
 
 - Contributing patches to documentation 
 - Contributing to Orchard Source Code in GitHub
+
+Total - 94 Videos to record
