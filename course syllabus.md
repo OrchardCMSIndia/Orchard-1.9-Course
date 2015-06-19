@@ -40,7 +40,7 @@
 - Creating a Page
 - Adding a Blog to Your Site
 - Saving, Scheduling and Publishing Drafts
-- Page Layers : Creating layers to manage widgets(Optional: use Layout)
+- Page Layers : Creating layers to manage widgets(Old School)
 - Managing Zones & Placing Widgets
 - Indexable and Draftable Widgets
 - Types of Widgets
@@ -110,11 +110,24 @@
 
 # Enabling Search and Indexing in Orchard
 
+- Search Module
+- Indexing Module
+- Adding a Search form
+
 # Setting up a Multi-Tenant Orchard Site
+
+- Multi-Tenancy Module
+- Creating Multi-Tenants
 
 # Introduction to Workflows
 
+- Workflows Overview
+- Creating a Contact Form Workflow
+- Using Tokens in a workflow
+
 # Using Orchard Website with SSL
+
+- Enabling SSL in Orchard
 
 # Importing/Exporting Website Content 
 
@@ -132,3 +145,9 @@
 - Deploying Orchard to Azure Websites
 
 # Contributing to Documentation
+
+- Contributing patches to documentation
+
+# Contributing to Orchard Source Code
+
+- Contributing to Orchard Source Code in GitHub
