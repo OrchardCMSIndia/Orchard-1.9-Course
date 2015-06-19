@@ -144,10 +144,7 @@
 - Creating a website using Recipes
 - Deploying Orchard to Azure Websites
 
-# Contributing to Documentation
+# Contributing to Documentation & Orchard Source Code in GitHub
 
-- Contributing patches to documentation
-
-# Contributing to Orchard Source Code
-
+- Contributing patches to documentation 
 - Contributing to Orchard Source Code in GitHub
