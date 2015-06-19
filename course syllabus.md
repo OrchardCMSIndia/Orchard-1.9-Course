@@ -1,4 +1,4 @@
-\# Getting Started
+# Getting Started
 
 - What is Orchard?
 - What version is the latest?
@@ -139,17 +139,21 @@
 
 # Upgrading an Orchard website
 
-- Creating a Custom Website Recipe
+- Upgrading a site to new version of Orchard
+- Migrating from SQL CE to SQL Express or SQL Server
 
 # Deploying Orchard to a Hosting Server
 
 - Setting up a Machine Key
-- Creating a website using Recipes
-- Deploying Orchard to Azure Websites
+- Deploying an Orchard site using WebDeploy in WebMatrix
+- Creating a website using Recipes on a production server
+- Deploying Orchard site to Azure Websites
+- Recovering admin Password in Orchard
+- Making an Orchard site offline
 
 # Contributing to Documentation & Orchard Source Code in GitHub
 
 - Contributing patches to documentation 
 - Contributing to Orchard Source Code in GitHub
 
-Total - 100 Videos to record
+Total - 100+ Videos to record
