@@ -152,4 +152,4 @@
 - Contributing patches to documentation 
 - Contributing to Orchard Source Code in GitHub
 
-Total - 94 Videos to record
+Total - 100 Videos to record
